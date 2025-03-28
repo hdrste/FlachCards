@@ -1,1 +1,6 @@
 This file is created for second part of final git project
+a few lines are needed to be added
+
+Line-1
+Line-2
+Line-3
